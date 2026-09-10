@@ -1,5 +1,5 @@
 import React from 'react';
-import { Link } from 'react-router-dom'
+// import { Link } from 'react-router-dom'
 import { movies } from '../Data/data'
 import MovieCard from '../Component/MovieCard'
 import MovieGallery from '../Component/MovieGallery';
