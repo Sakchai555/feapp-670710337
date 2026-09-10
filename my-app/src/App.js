@@ -103,11 +103,6 @@ import About from './pages/About';
 import Navbar from './Component/Navbar';
 import Footer from './Component/Footer';
 import MovieDetail from './pages/MovieDetail';
-import { data } from 'autoprefixer';
-import NotFound from './pages/NotFound';
-
-function App() {
-  return (
     <div className="flex min-h-screen flex-col bg-slate-50">
       <Navbar />
       <main className="flex-1">
